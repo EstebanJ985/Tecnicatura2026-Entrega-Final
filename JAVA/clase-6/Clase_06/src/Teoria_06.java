@@ -16,7 +16,7 @@ public class Teoria_06 {
         //Algoritmo ¿Es mayor de edad?
         
         var edad = 30; //Literal tener presente la inferencia de tipos
-        var adulto = edad >= 10; //Esta es una expresion booleana
+        var adulto = edad >= 18; //Esta es una expresion booleana
         
         if (adulto){
             System.out.println("Eres mayor de edad");
