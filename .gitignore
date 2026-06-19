@@ -1,0 +1,34 @@
+/JAVA/clase-1/Clase_01/nbproject/private/
+/JAVA/clase-1/Clase_01/build/
+/JAVA/clase-2/Clase_02/nbproject/private/
+/JAVA/clase-2/Clase_02/build/
+/JAVA/clase-3/Teoria_03/nbproject/private/
+/JAVA/clase-3/Teoria_03/build/
+/JAVA/clase-4/Clase_04/nbproject/private/
+/JAVA/clase-4/Clase_04/build/
+/JAVA/clase-5/Clase_05/nbproject/private/
+/JAVA/clase-5/Clase_06/nbproject/private/
+/JAVA/clase-5/Clase_06/build/
+/JAVA/clase-6/Clase_06/nbproject/private/
+/JAVA/clase-7/Teoria_07/nbproject/private/
+/JAVA/clase-7/Teoria_07/build/
+/JAVA/clase-7/Clase_08/nbproject/private/
+/JAVA/clase-7/Clase_08/build/
+/JAVA/clase-8/Clase_08/nbproject/private/
+/JAVA/Clase-9/Clase_09/nbproject/private/
+/JAVA/Clase-9/Clase_09/build/
+/JAVA/clase-8/Clase_08/build/
+/JAVA/clase-8/Clase_08/dist/
+/JAVA/Clase-9/Clase_09/dist/
+/JAVA/Clase-10/Clase_10/nbproject/private/
+/JAVA/Clase-10/Clase_10/build/
+
+# Python
+.venv/
+**/.venv/
+__pycache__/
+*.pyc
+
+# PyCharm / IntelliJ
+.idea/
+**/.idea/

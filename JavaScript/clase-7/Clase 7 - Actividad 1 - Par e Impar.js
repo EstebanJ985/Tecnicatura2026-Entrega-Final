@@ -1,0 +1,10 @@
+//Ejercicio
+// Encontrar numero par e impar
+
+let parImpar = 10;
+if(parImpar % 2 == 0){
+    console.log("Es un numero PAR");
+}
+else {
+    console.log("Es un numero IMPAR");
+}
