@@ -13,12 +13,16 @@ public class EJERCICIO_ESTACIONES_CON_SWITCH {
         switch(mes){
             case 1: case 2: case 3:
                 estacion = "Verano";
+                break;
             case 4: case 5: case 6:
                 estacion = "Otoño";
+                break;
             case 7: case 8: case 9:
-                estacion = "Invierno";           
+                estacion = "Invierno";
+                break;
             case 10: case 11: case 12:
                 estacion = "Primavera";
+                break;
         } 
         
         System.out.println("estacion = " + estacion);
